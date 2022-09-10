@@ -50,6 +50,7 @@ export default function Sidebar() {
             <span className="sidebarListItemText">Mentorship</span>
           </li>
         </ul>
+        
       </div>
     </div>
   );
